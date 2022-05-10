@@ -1,0 +1,31 @@
+body{
+    margin:auto;
+    background-color:#242333;
+
+}
+#ticket{
+    height:400px;
+    width:80%;
+    margin-left:10%;
+}
+#tic{
+    font-size: 50px;
+    color: #fff;
+    margin-left:10%;
+}
+#tic-img{
+    height:300px;
+    width:80%;
+    margin-left:10%;
+
+}
+#disclaimer{
+    height:300px;
+    width:90%;
+    margin-top:10%;
+    margin-left:15%;
+}
+#dis{
+    font-size:15px;
+    color:rgb(190, 187, 187);
+}
